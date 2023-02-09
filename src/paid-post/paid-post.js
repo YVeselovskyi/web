@@ -2,7 +2,7 @@ import React from 'react';
 
 function MyComponent({ title, description }) {
   return (
-    <div className="my-component">
+    <div className="paid-post">
       <h2>{title}</h2>
       <p>{description}</p>
     </div>
